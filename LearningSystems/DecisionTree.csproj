@@ -49,6 +49,7 @@
     <Compile Include="Decision Table\DecisionTableRow.cs" />
     <Compile Include="Enthropy.cs" />
     <Compile Include="InformationFunction.cs" />
+    <Compile Include="InformationGain.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
