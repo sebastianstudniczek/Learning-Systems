@@ -1,0 +1,6 @@
+D:\_SZKOŁA\UE Katowice - Informatyka\SEM II\Systemy uczące się\Ćwiczenia\SystemyUczące\Ćwiczenia 1\bin\Debug\Ćwiczenia 1.exe.config
+D:\_SZKOŁA\UE Katowice - Informatyka\SEM II\Systemy uczące się\Ćwiczenia\SystemyUczące\Ćwiczenia 1\bin\Debug\Ćwiczenia 1.exe
+D:\_SZKOŁA\UE Katowice - Informatyka\SEM II\Systemy uczące się\Ćwiczenia\SystemyUczące\Ćwiczenia 1\bin\Debug\Ćwiczenia 1.pdb
+D:\_SZKOŁA\UE Katowice - Informatyka\SEM II\Systemy uczące się\Ćwiczenia\SystemyUczące\Ćwiczenia 1\obj\Debug\Ćwiczenia 1.csprojAssemblyReference.cache
+D:\_SZKOŁA\UE Katowice - Informatyka\SEM II\Systemy uczące się\Ćwiczenia\SystemyUczące\Ćwiczenia 1\obj\Debug\Ćwiczenia 1.exe
+D:\_SZKOŁA\UE Katowice - Informatyka\SEM II\Systemy uczące się\Ćwiczenia\SystemyUczące\Ćwiczenia 1\obj\Debug\Ćwiczenia 1.pdb
